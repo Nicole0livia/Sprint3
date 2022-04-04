@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Changa:wght@200;500&family=Old+Standard+TT&family=Rubik+Wet+Paint&family=Sacramento&family=Shizuru&family=Six+Caps&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Changa:wght@200;500&family=Gruppo&family=Old+Standard+TT&family=Rubik+Wet+Paint&family=Sacramento&family=Shizuru&family=Six+Caps&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Changa:wght@200;500&family=Gruppo&family=Old+Standard+TT&family=Readex+Pro:wght@300&family=Rubik+Wet+Paint&family=Sacramento&family=Shizuru&family=Six+Caps&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Changa:wght@200;500&family=Gruppo&family=Old+Standard+TT&family=Oswald:wght@200&family=Readex+Pro:wght@300&family=Rubik+Wet+Paint&family=Sacramento&family=Shizuru&family=Six+Caps&family=Staatliches&display=swap');
+body {
+    background-color: rgb(0, 0, 0);
+    margin: 2%;
+    padding: 2%;
+}
+
+.button {
+    align-items: center;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #F74FD0;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #6B225A;
+    font-family: 'Staatliches', cursive;
+}
+
+.button:hover {
+    background-color: #8f2d78
+}
+
+.button:active {
+    background-color: #D042AF;
+    box-shadow: 0 5px #AD3792;
+    transform: translateY(4px);
+}
+
+.overtitel {
+    color: rgb(255, 247, 247);
+    font-size: 100px;
+    font-family: 'Staatliches', cursive;
+}
+
+.undertitel {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Gruppo', cursive;
+}
+
+.undertitel span {
+    color: rgb(0, 255, 21);
+    font-size: 50px;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Gruppo', cursive;
+}
+
+.buttonsprint {
+    align-items: center;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #B314F7;
+    ;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(52, 0, 73);
+    font-family: 'Staatliches', cursive;
+}
+
+.buttonsprint:hover {
+    background-color: #4b0968
+}
+
+.buttonsprint:active {
+    background-color: #490a64;
+    box-shadow: 0 5px #9711D2;
+    transform: translateY(4px);
+}
+
+.buttonzusatz {
+    align-items: center;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #3b56cf;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px#111a41;
+    font-family: 'Staatliches', cursive;
+}
+
+.buttonzusatz:hover {
+    background-color: #2c3f94
+}
+
+.buttonzusatz:active {
+    background-color: #2c3c8b;
+    box-shadow: 0 5px #2f4297;
+    transform: translateY(4px);
+}
+
+.zusatz {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Staatliches', cursive;
+}
+
+.zusatzred {
+    color: rgb(111, 0, 255);
+    font-size: 25px;
+    font-family: 'Staatliches', cursive;
+}
+
+.zusatzoben {
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}

@@ -1,0 +1,68 @@
+                            @import url('https://fonts.googleapis.com/css2?family=Shizuru&family=Staatliches&display=swap');
+                            @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@100&family=Changa:wght@200;500&family=Old+Standard+TT&family=Rubik+Wet+Paint&family=Shizuru&family=Six+Caps&family=Staatliches&display=swap');
+                            #heading {
+                                color: bisque;
+                            }
+                            
+                            .dark-red-border {
+                                border-color: rgb(71, 7, 7);
+                                border-width: 30px;
+                                border-style: solid;
+                            }
+                            
+                            @import url('https://fonts.googleapis.com/css2?family=Shizuru&family=Staatliches&display=swap');
+                            .blue-text {
+                                color: blue;
+                                font-size: 30px;
+                            }
+                            
+                            .titel {
+                                font-family: 'Staatliches', cursive;
+                                font-size: 120px;
+                                color: black;
+                                font-weight: bold;
+                                align-items: center;
+                            }
+                            
+                            .undertitel {
+                                font-family: 'Barlow Semi Condensed', sans-serif;
+                                font-size: 50px;
+                                color: black;
+                                align-items: center;
+                            }
+                            
+                            p {
+                                font-size: 30px;
+                                font-family: monospace;
+                            }
+                            
+                            h2 {
+                                font-family: 'Staatliches', cursive;
+                            }
+                            
+                            .box {
+                                border-style: dotted;
+                                border-color: yellow;
+                                border-width: 5px;
+                                text-align: center;
+                            }
+                            
+                            .yellow-box {
+                                background-color: green;
+                                padding: 10px;
+                            }
+                            
+                            .red-box {
+                                background-color: chocolate;
+                                color: #fff;
+                                padding: 10px;
+                                margin: auto;
+                            }
+                            
+                            .img-desR {
+                                width: auto;
+                                height: 600px;
+                                background-size: cover;
+                                background-repeat: no-repeat;
+                                background-position: center;
+                            }

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@200;500&family=Old+Standard+TT&family=Rubik+Wet+Paint&family=Shizuru&family=Six+Caps&family=Staatliches&display=swap');
+* {
+    margin: o;
+    padding: o;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.img-dog {
+    width: auto;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-dogone {
+    background-image: url(../Bilder/Cutedog1.jpg);
+}
+
+.img-dogtwo {
+    background-image: url(../Bilder/Cutedog2.jpg);
+}
+
+.img-dogthree {
+    background-image: url(../Bilder/Cutedog3.jpg);
+}
+
+.img-dogfour {
+    background-image: url(../Bilder/Cutedog4.jpg);
+    width: 1300px;
+    height: 1500px;
+}
+
+h1 {
+    font-family: 'Old Standard TT', serif;
+    color: rgb(86, 155, 160);
+    font-size: 200px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Old Standard TT', serif;
+    color: rgb(86, 155, 160);
+    font-size: 50px;
+    text-align: center;
+}
